@@ -9,8 +9,7 @@ public class OrdenacaoMenorValor {
             new Produto( "Jipe", 46000 ),
             new Produto( "Brasília", 16000 ),
             new Produto( "Smart", 46000 ),
-            new Produto( "Fusca", 17000 ),
-            new Produto( "Jipe Lux", 1200000 )
+            new Produto( "Fusca", 17000 )
         };
 
         ordenar( produtos, produtos.length);
